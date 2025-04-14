@@ -7,7 +7,9 @@
     {
         private List<IMemento> _mementos = new List<IMemento>();
 
+#pragma warning disable CS8625 // Cannot convert null literal to non-nullable reference type.
         private Originator _originator = null;
+#pragma warning restore CS8625 // Cannot convert null literal to non-nullable reference type.
 
         public Caretaker(Originator originator)
             => this._originator = originator;
