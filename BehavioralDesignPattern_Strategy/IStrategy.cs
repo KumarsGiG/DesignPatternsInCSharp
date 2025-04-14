@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BehavioralDesignPattern_Strategy
+﻿namespace BehavioralDesignPattern_Strategy
 {
     // The Strategy interface declares operations common to all supported versions of some algorithm.
 
