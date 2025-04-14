@@ -11,6 +11,8 @@
             invoker.SetOnFinish(new ComplexCommand(receiver, "Send email", "Save report"));
 
             invoker.DoSomethingImportant();
+
+            Console.ReadLine();
         }
     }
 }
