@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern_Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern_Decorator", "StructuralDesignPattern_Decorator\StructuralDesignPattern_Decorator.csproj", "{D9EA046E-834F-4FE8-9E91-C02E8E2EA2F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern_Facade", "StructuralDesignPattern_Facade\StructuralDesignPattern_Facade.csproj", "{5C9052F6-ABD3-42D4-869D-2BE06EED55BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D9EA046E-834F-4FE8-9E91-C02E8E2EA2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9EA046E-834F-4FE8-9E91-C02E8E2EA2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9EA046E-834F-4FE8-9E91-C02E8E2EA2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9052F6-ABD3-42D4-869D-2BE06EED55BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9052F6-ABD3-42D4-869D-2BE06EED55BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9052F6-ABD3-42D4-869D-2BE06EED55BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9052F6-ABD3-42D4-869D-2BE06EED55BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
