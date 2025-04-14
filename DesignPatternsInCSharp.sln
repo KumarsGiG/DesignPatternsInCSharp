@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern_Vis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern_Adapter", "StructuralDesignPattern_Adapter\StructuralDesignPattern_Adapter.csproj", "{12970C73-155B-4E75-B5B2-C495C92A8B4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern_Bridge", "StructuralDesignPattern_Bridge\StructuralDesignPattern_Bridge.csproj", "{39EB28FB-6A45-440C-A3A4-D65ACE07F653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{12970C73-155B-4E75-B5B2-C495C92A8B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12970C73-155B-4E75-B5B2-C495C92A8B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12970C73-155B-4E75-B5B2-C495C92A8B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EB28FB-6A45-440C-A3A4-D65ACE07F653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EB28FB-6A45-440C-A3A4-D65ACE07F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EB28FB-6A45-440C-A3A4-D65ACE07F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EB28FB-6A45-440C-A3A4-D65ACE07F653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
