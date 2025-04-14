@@ -11,6 +11,7 @@
         {
             this._component1 = component1;
             this._component1.SetMediator(this);
+
             this._component2 = component2;
             this._component2.SetMediator(this);
         }
