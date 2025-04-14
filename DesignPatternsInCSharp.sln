@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern_Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern_TemplateMethod", "BehavioralDesignPattern_TemplateMethod\BehavioralDesignPattern_TemplateMethod.csproj", "{A3962914-6B7F-424F-8BF5-F908C9534CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern_Visitor", "BehavioralDesignPattern_Visitor\BehavioralDesignPattern_Visitor.csproj", "{B4CDEA6F-F0FF-4C52-BD6E-BCF2C72DE488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A3962914-6B7F-424F-8BF5-F908C9534CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3962914-6B7F-424F-8BF5-F908C9534CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3962914-6B7F-424F-8BF5-F908C9534CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CDEA6F-F0FF-4C52-BD6E-BCF2C72DE488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CDEA6F-F0FF-4C52-BD6E-BCF2C72DE488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CDEA6F-F0FF-4C52-BD6E-BCF2C72DE488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CDEA6F-F0FF-4C52-BD6E-BCF2C72DE488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
